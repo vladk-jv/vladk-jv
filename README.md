@@ -13,4 +13,5 @@ I’m currently learning ...
 Languages & Tools
 
 Follow Me on Socal Media
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/твій-профіль)  
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/younderu)
