@@ -26,7 +26,8 @@ Looking for opportunities to grow as a **Manual / Automation QA Engineer** and w
 
 **Test Management:**
 - Test case writing, Checklists, Bug reporting  
-- TestRail, ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+- ![TestRail](https://img.shields.io/badge/TestRail-009688?style=for-the-badge&logoColor=white)
+, ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
 **Developer Tools:**
 
