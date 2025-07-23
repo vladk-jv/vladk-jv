@@ -8,9 +8,32 @@ Looking for opportunities to grow as a **Manual / Automation QA Engineer** and w
 
 ---
 
-I’m currently learning ...
+## 🛠️ Languages & Tools
 
-Languages & Tools
+**Programming Languages:**
+- JavaScript, TypeScript, Java
+
+**Automation & Testing Tools:**  
+- Postman (API testing)
+
+**Test Management:**
+- Test case writing, Checklists, Bug reporting  
+- TestRail, Jira
+
+**Developer Tools:**
+- Chrome DevTools  
+- Git, GitHub, VS Code
+- 
+---
+
+## 📚 Currently Learning
+
+- Fundamentals of software testing  
+- API testing with Postman  
+- Writing effective test cases and bug reports  
+- Playwright, Selenium, Cypress, Jest  for test automation  
+- Web technologies for better understanding of front-end testing
+
 
 Follow Me on Socal Media
 
